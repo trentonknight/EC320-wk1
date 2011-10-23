@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  23 OCT 2011 13:56
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  23 OCT 2011 15:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -389,6 +389,34 @@ s/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2008/06/17 v2.10 (rcs-revision 1.2)
 )))
 (/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/datavisualization/tikzlibrarydatavisualization.code.tex
+File: tikzlibrarydatavisualization.code.tex 2010/09/15 v2.10 (rcs-revision 1.31
+)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/modules/pgfmoduledatavisual
+ization.code.tex
+File: pgfmoduledatavisualization.code.tex 2010/08/24  (rcs-revision 1.37)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/modules/pgfmoduleoo.code.te
+x
+File: pgfmoduleoo.code.tex 2010/02/22  (rcs-revision 1.8)
+\pgfoo@objectcount=\count110
+\pgfoothis@count=\count111
+)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.cod
+e.tex)
+\pgf@lib@dv@cache@count=\count112
+\pgf@lib@dv@cache@count=\count113
+)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarybackgrounds.code.tex
+File: tikzlibrarybackgrounds.code.tex 2010/02/08 v2.10 (rcs-revision 1.2)
+\pgf@layerbox@background=\box35
+\pgf@layerboxsaved@background=\box36
+)
+\tikzdvvisualizercounter=\count114
+)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibrarycalc.code.tex
 File: tikzlibrarycalc.code.tex 2009/09/04 v2.10 (rcs-revision 1.6)
 )
@@ -439,26 +467,26 @@ File: tikzlibraryshapes.multipart.code.tex 2008/01/09 v2.10 (rcs-revision 1.1)
 (/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibrary
 shapes.multipart.code.tex
 File: pgflibraryshapes.multipart.code.tex 2010/01/07 v2.10 (rcs-revision 1.2)
-\pgfnodepartlowerbox=\box35
-\pgfnodeparttwobox=\box36
-\pgfnodepartthreebox=\box37
-\pgfnodepartfourbox=\box38
-\pgfnodeparttwentybox=\box39
-\pgfnodepartnineteenbox=\box40
-\pgfnodeparteighteenbox=\box41
-\pgfnodepartseventeenbox=\box42
-\pgfnodepartsixteenbox=\box43
-\pgfnodepartfifteenbox=\box44
-\pgfnodepartfourteenbox=\box45
-\pgfnodepartthirteenbox=\box46
-\pgfnodeparttwelvebox=\box47
-\pgfnodepartelevenbox=\box48
-\pgfnodeparttenbox=\box49
-\pgfnodepartninebox=\box50
-\pgfnodeparteightbox=\box51
-\pgfnodepartsevenbox=\box52
-\pgfnodepartsixbox=\box53
-\pgfnodepartfivebox=\box54
+\pgfnodepartlowerbox=\box37
+\pgfnodeparttwobox=\box38
+\pgfnodepartthreebox=\box39
+\pgfnodepartfourbox=\box40
+\pgfnodeparttwentybox=\box41
+\pgfnodepartnineteenbox=\box42
+\pgfnodeparteighteenbox=\box43
+\pgfnodepartseventeenbox=\box44
+\pgfnodepartsixteenbox=\box45
+\pgfnodepartfifteenbox=\box46
+\pgfnodepartfourteenbox=\box47
+\pgfnodepartthirteenbox=\box48
+\pgfnodeparttwelvebox=\box49
+\pgfnodepartelevenbox=\box50
+\pgfnodeparttenbox=\box51
+\pgfnodepartninebox=\box52
+\pgfnodeparteightbox=\box53
+\pgfnodepartsevenbox=\box54
+\pgfnodepartsixbox=\box55
+\pgfnodepartfivebox=\box56
 )))
 (/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibraryarrows.code.tex
@@ -500,11 +528,11 @@ s.code.tex
 \pgfdecoratedinputsegmentcompleteddistance=\dimen151
 \pgfdecoratedinputsegmentremainingdistance=\dimen152
 \pgf@decorate@distancetomove=\dimen153
-\pgf@decorate@repeatstate=\count110
+\pgf@decorate@repeatstate=\count115
 \pgfdecorationsegmentamplitude=\dimen154
 \pgfdecorationsegmentlength=\dimen155
 )
-\tikz@lib@dec@box=\box55
+\tikz@lib@dec@box=\box57
 )
 (/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
 brarydecorations.pathmorphing.code.tex))
@@ -523,12 +551,6 @@ File: tikzlibrarymatrix.code.tex 2008/06/18 v2.10 (rcs-revision 1.2)
 (/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibraryscopes.code.tex
 File: tikzlibraryscopes.code.tex 2008/06/27 v2.10 (rcs-revision 1.2)
-)
-(/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-s/tikzlibrarybackgrounds.code.tex
-File: tikzlibrarybackgrounds.code.tex 2010/02/08 v2.10 (rcs-revision 1.2)
-\pgf@layerbox@background=\box56
-\pgf@layerboxsaved@background=\box57
 ) (./EC320-week1.aux)
 \openout1 = `EC320-week1.aux'.
 
@@ -547,16 +569,16 @@ LaTeX Font Info:    ... okay on input line 11.
 
 (/usr/local/texlive/2011/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count111
+\scratchcounter=\count116
 \scratchdimen=\dimen156
 \scratchbox=\box58
-\nofMPsegments=\count112
-\nofMParguments=\count113
+\nofMPsegments=\count117
+\nofMParguments=\count118
 \everyMPshowfont=\toks24
-\MPscratchCnt=\count114
+\MPscratchCnt=\count119
 \MPscratchDim=\dimen157
-\MPnumerator=\count115
-\makeMPintoPDFobject=\count116
+\MPnumerator=\count120
+\makeMPintoPDFobject=\count121
 \everyMPtoPDFconversion=\toks25
 ) ABD: EveryShipout initializing macros
 (/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
@@ -641,33 +663,36 @@ File: omxiwonal.fd 2008/07/22 v0.995 font definition file for OMX/iwonal (MW)
 
 {/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./GDP.p
 ng>]
-(./EC320-week1.bbl
-Underfull \hbox (badness 1231) in paragraph at lines 4--8
-[]\OT1/iwonalm/m/n/12 Wikipedia (2011).  Pro-duc-tion–-pos-si-bil-ity fron-ti
-er ---
+
+Package xcolor Warning: Incompatible color definition on input line 61.
+
+[1] (./EC320-week1.bbl
+Underfull \hbox (badness 3168) in paragraph at lines 4--8
+[]\OT1/iwonalm/m/n/12 Wikipedia (2011).  Pro-duc-tion pos-si-bil-ity fron-tier 
+---
  []
 
-) [1
+) [2
 
 
 ] (./EC320-week1.aux) ) 
 Here is how much of TeX's memory you used:
- 12953 strings out of 493633
- 278514 string characters out of 3143378
- 342296 words of memory out of 3000000
- 15949 multiletter control sequences out of 15000+200000
- 38117 words of font info for 35 fonts, out of 3000000 for 9000
+ 14252 strings out of 493633
+ 318194 string characters out of 3143378
+ 393411 words of memory out of 3000000
+ 17235 multiletter control sequences out of 15000+200000
+ 41139 words of font info for 36 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 56i,5n,73p,469b,266s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,9n,73p,487b,580s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2011/texmf-dist/fonts/enc/dvips/iwon
 a/rm-iwona.enc}{/usr/local/texlive/2011/texmf-dist/fonts/enc/dvips/iwona/rm-iwo
 na-sc.enc}</usr/local/texlive/2011/texmf-dist/fonts/type1/nowacki/iwona/iwonal.
 pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/nowacki/iwona/iwonali.pfb><
 /usr/local/texlive/2011/texmf-dist/fonts/type1/nowacki/iwona/iwonam.pfb>
-Output written on EC320-week1.pdf (2 pages, 276237 bytes).
+Output written on EC320-week1.pdf (3 pages, 278794 bytes).
 PDF statistics:
- 47 PDF objects out of 1000 (max. 8388607)
- 22 compressed objects within 1 object stream
+ 50 PDF objects out of 1000 (max. 8388607)
+ 24 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  114 words of extra memory for PDF output out of 10000 (max. 10000000)
 
